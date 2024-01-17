@@ -8,7 +8,7 @@ Been coding since 2012.
 
 *   🌍  I'm based in Italy
 *   🖥️  See my portfolio at [Portfolio](http://bigimattia.github.io)
-*   😊 Take a look at my [Github gists](https://gist.github.com/bigimattia), you may find something useful!
+*   😊  Please feel free to check out my [Github gists](https://gist.github.com/bigimattia). You might find some useful content there!
 
 ### Socials
 <p align="left">
