@@ -8,9 +8,9 @@ Been coding since 2012.
 
 *   🌍  I'm based in Italy
 *   🖥️  See my portfolio at [Portfolio](http://bigimattia.github.io)
+*   😊 Take a look at my [Github gists](https://gist.github.com/bigimattia), you may find something useful!
 
 ### Socials
 <p align="left">
-    <a href="https://www.github.com/bigimattia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/mattiabigi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
