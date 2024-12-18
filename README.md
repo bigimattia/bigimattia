@@ -6,10 +6,6 @@ Web developer
 
 Been coding since 2012.
 
-*   🌍  I'm based in Italy
-*   🖥️  See my portfolio at [Portfolio](http://bigimattia.github.io)
-*   😊  Please feel free to check out my [Github gists](https://gist.github.com/bigimattia). You might find some useful content there!
-
 ### Socials
 <p align="left">
     <a href="https://www.linkedin.com/in/mattiabigi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
